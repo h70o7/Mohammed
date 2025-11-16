@@ -1,0 +1,10 @@
+{
+  "name": "insta-clone-backend",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.19.2",
+    "pg": "^8.11.3",
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.4.5"
+  }
+}
